@@ -1,6 +1,6 @@
 # BookedBy - Appointment Scheduling Platform
 
-A modern web application for managing appointments and scheduling, built with React and Tailwind CSS.
+A modern proto type web application for managing appointments and scheduling, built with React and Tailwind CSS purely built on Cursor AI with Human code reviews.
 
 ## Live Demo
 
