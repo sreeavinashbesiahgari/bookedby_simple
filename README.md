@@ -1,14 +1,28 @@
 # BookedBy - Appointment Scheduling Platform
 
-A modern web application for managing appointments and scheduling. Built with React, Tailwind CSS, and React Router.
+A modern web application for managing appointments and scheduling, built with React and Tailwind CSS.
+
+## Live Demo
+
+Visit the live application: [BookedBy](https://sreeavinashbesiahgari.github.io/bookedby_simple/)
 
 ## Features
 
-- Responsive design for desktop and mobile
-- Smooth scrolling navigation
-- User authentication (Sign In/Sign Up)
-- Modern UI with Tailwind CSS
-- Mobile-friendly navigation
+- 📱 Responsive design for all devices
+- 🎨 Modern UI with Tailwind CSS
+- 🔐 User authentication system
+- 📅 Appointment scheduling
+- 💰 Multiple pricing tiers
+- 📱 Mobile-friendly navigation
+- 🔄 Smooth scrolling
+
+## Tech Stack
+
+- React
+- React Router
+- Tailwind CSS
+- Headless UI
+- Hero Icons
 
 ## Getting Started
 
@@ -21,8 +35,8 @@ A modern web application for managing appointments and scheduling. Built with Re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sreea/bookedby.git
-cd bookedby
+git clone https://github.com/sreeavinashbesiahgari/bookedby_simple.git
+cd bookedby_simple
 ```
 
 2. Install dependencies:
@@ -45,29 +59,13 @@ To create a production build:
 npm run build
 ```
 
-## Deployment
+### Deployment
 
-This project is configured for deployment on GitHub Pages. To deploy:
+The site is configured for deployment on GitHub Pages. To deploy:
 
-1. Make sure you have the `gh-pages` package installed:
-```bash
-npm install --save-dev gh-pages
-```
-
-2. Deploy to GitHub Pages:
 ```bash
 npm run deploy
 ```
-
-The site will be available at `https://sreea.github.io/bookedby`
-
-## Technologies Used
-
-- React
-- React Router
-- Tailwind CSS
-- Headless UI
-- Hero Icons
 
 ## Contributing
 
@@ -79,4 +77,8 @@ The site will be available at `https://sreea.github.io/bookedby`
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Sree Avinash Besiah Gari - [GitHub](https://github.com/sreeavinashbesiahgari) 

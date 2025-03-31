@@ -75,7 +75,7 @@ const MainContent = () => {
 
 function App() {
   return (
-    <BrowserRouter basename="/bookedby">
+    <BrowserRouter basename="/BookedBy_Simple">
       <MainContent />
     </BrowserRouter>
   );
