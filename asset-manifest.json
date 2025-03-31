@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bookedby_Simple/static/css/main.4fa1179b.css",
+    "main.js": "/Bookedby_Simple/static/js/main.4f06cd81.js",
+    "index.html": "/Bookedby_Simple/index.html",
+    "main.4fa1179b.css.map": "/Bookedby_Simple/static/css/main.4fa1179b.css.map",
+    "main.4f06cd81.js.map": "/Bookedby_Simple/static/js/main.4f06cd81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa1179b.css",
+    "static/js/main.4f06cd81.js"
+  ]
+}
