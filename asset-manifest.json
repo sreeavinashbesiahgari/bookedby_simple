@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BookedBy_Simple/static/css/main.4fa1179b.css",
-    "main.js": "/BookedBy_Simple/static/js/main.c2fd65f0.js",
-    "index.html": "/BookedBy_Simple/index.html",
-    "main.4fa1179b.css.map": "/BookedBy_Simple/static/css/main.4fa1179b.css.map",
-    "main.c2fd65f0.js.map": "/BookedBy_Simple/static/js/main.c2fd65f0.js.map"
+    "main.css": "/bookedby_simple/static/css/main.4fa1179b.css",
+    "main.js": "/bookedby_simple/static/js/main.f2536088.js",
+    "index.html": "/bookedby_simple/index.html",
+    "main.4fa1179b.css.map": "/bookedby_simple/static/css/main.4fa1179b.css.map",
+    "main.f2536088.js.map": "/bookedby_simple/static/js/main.f2536088.js.map"
   },
   "entrypoints": [
     "static/css/main.4fa1179b.css",
-    "static/js/main.c2fd65f0.js"
+    "static/js/main.f2536088.js"
   ]
 }
